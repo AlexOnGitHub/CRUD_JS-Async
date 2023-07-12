@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "Cesar Alejandro",
+      "email": "ce_sa_r4@hotmail.com",
+      "id": 1
+    },
+    {
+      "nombre": "Luis Eduardo",
+      "email": "granadosb@gmail.com",
+      "id": 2
+    },
+    {
+      "nombre": "Adrian Nava",
+      "email": "adrian@gmail.com",
+      "id": "a2799a92-1585-4c72-9092-d1009e715e12"
+    }
+  ]
+}
